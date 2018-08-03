@@ -1,5 +1,9 @@
 # TensorFlow.js Example: Sequence-to-Sequence English-French Translation
 
+## Overview 
+
+This is the code for [this](https://www.youtube.com/watch?v=CMank9YmtTM) video on Youtube by Siraj Raval on Translation systmes using NodeJS and TensorflowJS. The notes are in the jupyter notebook. 
+
 This demo shows how to perform sequence-to-sequence prediction using the Layers
 API of TensorFlow.js.
 
@@ -18,3 +22,8 @@ yarn watch
 ```
 
 [See this example live!](https://storage.googleapis.com/tfjs-examples/translation/dist/index.html)
+
+
+## Credits
+
+credits for the code go to google, i've merely created a wrapper to get people started. 
